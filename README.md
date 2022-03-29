@@ -51,7 +51,7 @@ Or
            "word": "flower"
         }
      ```
-  > **Post Mapping** http://localhost:8080/word/count- Count words
+  > **Get Mapping** http://localhost:8080/word/count- Count words
   Request Body
      ```
         {
