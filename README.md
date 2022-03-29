@@ -35,7 +35,7 @@ Run jar file from below path with given command
 > **```java -jar ~/path-to-word-counter/target/word-counter-1.0.0-RELEASE.jar```**
 
 Or
-> run main method from `word-counterApplication.java` as spring boot application.
+> run main method from `WordCounterApplication.java` as spring boot application.
 
 ## Logging
 
